@@ -2,9 +2,9 @@
 
  ### Here you can click on a row in the table and watch the video:
 
-| **Video_1** | **Video_2** | **Video_3** |
-|------------|------------|------------|
-| [Sparks_1](https://www.dropbox.com/preview/Sparks.mp4?context=content_suggestions&role=personal) | [Sparks_2](https://vimeo.com/1048390109?share=copy) | [Area_Of_Attack](https://vimeo.com/1051656686?share=copy) |
+| **Video_1** | **Video_2** | **Video_3** | **Video_4** |
+|------------|------------|------------|------------|
+| [Sparks_1](https://www.dropbox.com/preview/Sparks.mp4?context=content_suggestions&role=personal) | [Sparks_2](https://vimeo.com/1048390109?share=copy) | [Area_Of_Attack](https://vimeo.com/1051656686?share=copy) | [Fire_Area](https://vimeo.com/1052027732?share=copy#t=0) |
 
 
 
